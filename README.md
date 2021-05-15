@@ -1,1 +1,1 @@
-# Rock-paper-scissord-lizard-spock
+# Rock-paper-scissord-lizard-spock classifier
